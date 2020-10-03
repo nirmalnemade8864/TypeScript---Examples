@@ -1,0 +1,10 @@
+var x = 10;
+var y = 20;
+var sum = x + y;
+var sub = x - y;
+var mul = x * y;
+var div = x / y;
+console.log('Sum is ', sum);
+console.log('Sub is ', sub);
+console.log('Mul is ', mul);
+console.log('Div is ', div);
